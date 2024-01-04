@@ -7,9 +7,9 @@ This repository contains a collection of useful SYNGQL queries that reference in
 According SYNGQL developers, YNG is like grep but for JavaScript source code: it searches files for a statement, like a function call with specific arguments, based on syntax rather than text. Or, based on structure rather than format.
 
 ## Queries
-- [postMessage](https://github.com/0xTeles/syngql-security/edit/main/README.md#postmessage)
-- [new URL](https://github.com/0xTeles/syngql-security/edit/main/README.md#new-url)
-- [addEventListener](https://github.com/0xTeles/syngql-security/edit/main/README.md#addEventListener)
+- [postMessage](https://github.com/0xTeles/syngql-security/tree/main#postmessage)
+- [new URL](https://github.com/0xTeles/syngql-security/tree/main#new-url)
+- [addEventListener](https://github.com/0xTeles/syngql-security/tree/main#addEventListener)
 ### postMessage 
 
 ~~~

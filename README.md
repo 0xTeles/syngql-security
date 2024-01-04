@@ -1,6 +1,15 @@
-### syngql queries
+# syngql security queries
 
+This repository contains a collection of useful SYNGQL queries that reference interesting functions within JavaScript code.
 
+# What is SYNGQL
+
+According SYNGQL developers, YNG is like grep but for JavaScript source code: it searches files for a statement, like a function call with specific arguments, based on syntax rather than text. Or, based on structure rather than format.
+
+## Queries
+- [postMessage](https://github.com/0xTeles/syngql-security/edit/main/README.md#postmessage)
+- [new URL](https://github.com/0xTeles/syngql-security/edit/main/README.md#new-url)
+- [addEventListener](https://github.com/0xTeles/syngql-security/edit/main/README.md#addEventListener)
 ### postMessage 
 
 ~~~
@@ -19,3 +28,6 @@
 (call (mem addEventListener _))
 ~~~
 ![image](https://github.com/0xTeles/syngql-security/assets/23142366/fcaf2a73-d54a-4121-bda6-dd2365e8035e)
+
+## References
+- https://syng.dev/docs/manual/

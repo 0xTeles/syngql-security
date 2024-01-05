@@ -10,6 +10,8 @@ According SYNGQL developers, YNG is like grep but for JavaScript source code: it
 - [postMessage](https://github.com/0xTeles/syngql-security/tree/main#postmessage)
 - [new URL](https://github.com/0xTeles/syngql-security/tree/main#new-url)
 - [addEventListener](https://github.com/0xTeles/syngql-security/tree/main#addEventListener)
+- [fetch](https://github.com/0xTeles/syngql-security/tree/main#fetch)
+
 ### postMessage 
 
 ~~~
@@ -22,6 +24,12 @@ According SYNGQL developers, YNG is like grep but for JavaScript source code: it
 (of URL)
 ~~~
 ![image](https://github.com/0xTeles/syngql-security/assets/23142366/2cdff8f5-08ff-41bd-93cf-30357445ec22)
+
+### fetch
+~~~
+(call fetch)
+~~~
+<img width="767" alt="image" src="https://github.com/0xTeles/syngql-security/assets/23142366/7c49f84e-34cb-40ad-933d-1db52521617f">
 
 ### addEventListener
 ~~~
